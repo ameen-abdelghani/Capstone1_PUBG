@@ -15,6 +15,7 @@ In recent months PUBG has been losing large amounts of playerbase to Fortnite, t
 
 
 Hypothesis
+
 From the Kaggle data I aim to answer questions most players face when playing a match of PUBG. From the data I want to ask the following questions
 Do players that get more kills, end up more likely to win a match?
 Do players that travel less, end up more likely to win a match?
