@@ -1,7 +1,7 @@
 # Capstone1_PUBG
 First capstone project for Springboard Data Science Track. A data analysis on the hit video game Players Unknown Battlegrounds
 
-Dataset
+Dataset https://www.kaggle.com/skihikingkevin/pubg-match-deaths#aggregate.zip
 
 Players Unknown Battleground is the 2017 video game of the year that began a whole new genre in video games that is currently dominating the market. It is currently the fifth best selling game of all time. The concept is simple, 100 players, optionally in teams, are dropped off on an island with nothing, they must scavenge the map for weapons and equipment with the map size shrinking to a random location, last man or team standing wins.. This genre is called battle royale, and has influences from the hit movie series The Hunger Games and the Japanese film Battle Royale.
 
