@@ -1,8 +1,8 @@
 ![alt text](https://cdn-images-1.medium.com/max/1200/1*cmQc9shDNAs3nuGCeguwvg.png)
 
 First capstone project for Springboard Data Science Track. A data analysis on the hit video game Players Unknown Battlegrounds
-
-### Dataset 
+This site was built using [GitHub Pages](https://pages.github.com/)
+### [Dataset](https://www.kaggle.com/skihikingkevin/pubg-match-deaths#aggregate.zip)
 
 https://www.kaggle.com/skihikingkevin/pubg-match-deaths#aggregate.zip
 
